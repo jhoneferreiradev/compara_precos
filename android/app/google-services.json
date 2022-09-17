@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266936687923",
+    "project_id": "comparador-de-preco-f8e70",
+    "storage_bucket": "comparador-de-preco-f8e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266936687923:android:b47e46b19f013e21023246",
+        "android_client_info": {
+          "package_name": "br.com.jhoneferreira.compara_precos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266936687923-pbslof1unt5011tfa2s6s5k2e3a42mk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQ1nGNyuEjtvnRSvXqk08ai5CZOu-a6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266936687923-pbslof1unt5011tfa2s6s5k2e3a42mk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
